@@ -11,7 +11,8 @@ A contribution can be anything from fixing typos to writing new chapters. To par
 2. Make sure the text is written in clear and correct academic English and is properly structured.
 3. Include inline citations and a list of references (APA style).
 4. If including figures from another published work make sure you have obtained permission to use it in this book.
-5. You may attach a short biographical paragraph to be added to the list of contributors. 
+5. Phonological datasets: use only authentic (i.e., non-altered) data. Cite the earliest available source (i.e., prefer citing original research articles/books to citing textbooks that reuse the data). 
+6. You may attach a short biographical paragraph to be added to the list of contributors. 
 
 ### Planned chapters
 #### Part V: Prosodic phonology
