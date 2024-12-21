@@ -52,7 +52,7 @@ Current document version: 1.0
 
 ## Contributions
 The book is a non-for-profit, open-ended community project. New contributions are most welcome.
-A contribution can be anything from fixing typos to writing new chapters. To participate in the book, please email me (my email appears on the cover page of the book).
+To participate in the book, please email me (my email appears on the cover page of the book).
 ### Guidelines for new content
 1. Text should be submitted in a Microsoft Word document.
 2. Make sure the text is written in clear and correct academic English and that it is properly structured.
