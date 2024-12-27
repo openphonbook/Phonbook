@@ -33,6 +33,8 @@ Current document version: 1.0
 18. Syllables
 19. Stress
 
+### Phonology review
+
 ## Planned chapters
 ### Part V: Prosodic phonology
 20. Tone and pitch-accent
