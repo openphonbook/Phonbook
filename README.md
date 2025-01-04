@@ -61,4 +61,4 @@ To participate in the book, please email me (my email appears on the cover page 
 3. Include inline citations and a list of references (APA style).
 4. If including figures from another published work make sure you have obtained permission to use it in this book.
 5. Phonological datasets: use only authentic (i.e., non-altered) data. Cite the earliest available source (i.e., prefer citing original research articles/books to citing textbooks that reuse the data). 
-6. If you write new content, you may attach a short biographical paragraph to be added to the list of contributors. Suggestions for minor corrections will be acknowledged in a footnote in the appropriate place.
+6. If you write new content, you may attach a short biographical paragraph to be added to the list of contributors. Minor contributions, such as error corrections and additions shorter than a section, will be acknowledged in a footnote in the appropriate place.
