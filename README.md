@@ -1,7 +1,7 @@
 # Phonetics and Phonology: An Introduction to the Science of Speech
-This is the website of the book _Phonetics and Phonology: An Introduction to the Science of Speech_ by Chen Gafni.
+This is the website of the book _Phonetics and Phonology: An Introduction to the Science of Speech_ by [Chen Gafni](https://chengafni.wordpress.com/).
 
-Current document version: 1.0
+Current document version: 1.0 (12 January 2025)
 
 ## Table of contents
 ### Part I: Introduction
